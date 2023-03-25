@@ -5,7 +5,7 @@ Complete [The Odin Project - Full Stack JavaScript](https://www.theodinproject.c
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
 | Fundamentals                                                                                                                                                             |            |              |
-| JavaScript                                                                                                                                                                      |            |              |
+| JavaScript                                                                                                                                                                      |            |     ------         |
 | HTML and CSS                                                                                                                                                                    |            |              |
 | JavaScript                                                                                                                                                                      |            |              |
 | NodeJS                                                                                                                                                                          |            |              |
